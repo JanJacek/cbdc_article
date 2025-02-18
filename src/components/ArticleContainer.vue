@@ -69,7 +69,10 @@
       <p class="text-h5">bibliogtafia</p>
       <ul>
         <li>
-          <a href="https://www.google.pl">testowy link porwadzący do storny google</a>
+          <a
+            href="https://nbp.pl/system-platniczy/dane-i-analizy/analizy-i-opracowania/pieniadz-cyfrowy-banku-centralnego/"
+            >Departament Systemu Płatniczego NBP. (2021) „Pieniądz cyfrowy banku centralnego”
+          </a>
         </li>
         <li>
           <a href="https://www.google.pl">testowy link porwadzący do storny google</a>
